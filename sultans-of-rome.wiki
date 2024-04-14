@@ -14,4 +14,3 @@ reviewed by Charles Iliya Krempeaux
 §§§ Series Introduction
 
 • [[md5-0x6c1784b22a4265a73c353aaad73712b3]]
-
