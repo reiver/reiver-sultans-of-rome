@@ -6,11 +6,12 @@ reviewed by Charles Iliya Krempeaux
 
 §§ Quotations
 
-§§§ Series Introduction
-
-• [[md5-0x6c1784b22a4265a73c353aaad73712b3]]
-
 §§§ Back-Cover Blurb
 
 • [[md5-0xea1376084cbedb772c398a9eb1cf47e7]]
 • [[md5-0xa1e67aaab389941524f06976e5b785f6]]
+
+§§§ Series Introduction
+
+• [[md5-0x6c1784b22a4265a73c353aaad73712b3]]
+
